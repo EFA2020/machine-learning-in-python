@@ -40,7 +40,7 @@ When complete, please run the following and send a screenshot of each to jamie.b
      3. Restart jupyter notebook
      
 # Course Expectations
- - you're ready to learn, ready to fail, ready to try again
+ - You're ready to learn, ready to fail, ready to try again
  
 # Schedule
 ## Day 1
